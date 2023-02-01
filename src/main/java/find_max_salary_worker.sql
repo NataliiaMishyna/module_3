@@ -1,0 +1,5 @@
+SELECT
+    NAME,
+    SALARY
+FROM worker
+WHERE SALARY = '5000'
